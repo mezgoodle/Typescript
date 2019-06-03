@@ -18,3 +18,7 @@ let strArray1: Array<string> = ['1', '2', '3'];
 
 let boolArray: boolean[] = [true, false, true];
 let boolArray1: Array<boolean> = [true, false, true];
+
+//tuples
+let array: [number, number, string] = [1, 2, '3'];
+let array1: [boolean, string, number] = [true, '2', 3];
