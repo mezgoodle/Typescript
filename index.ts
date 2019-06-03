@@ -9,3 +9,9 @@ let unknown: any = '1';
 unknown = 1;
 let unknown1: string | number = '1';
 unknown = 1;
+//масиви
+let numArray = [1, 2, 3];
+
+let strArray = ['1', '2', '3'];
+
+let boolArray = [true, false, true];
