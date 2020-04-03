@@ -1,10 +1,10 @@
-var q = 1;
-//змінні
-var str = 'string';
-var num = 10;
-var isTrue = true;
+let q = 1;
+// variables
+let str = "string";
+let num = 10;
+let isTrue = true;
 isTrue = false;
-var unknown = '1';
+let unknown = "1";
 unknown = 1;
-var unknown1 = '1';
+let unknown1 = "1";
 unknown = 1;
